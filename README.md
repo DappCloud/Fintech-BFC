@@ -1,2 +1,2 @@
 # Fintech-BFC
-Jasher's Client FIntech Project
+Jasher's Fintech Client Project
